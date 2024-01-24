@@ -39,5 +39,8 @@ hardhat - 2.19.4
 ## Demo
 https://github.com/ChiJian28/DGdrive3.0/assets/109941092/5f643bae-d5bd-4964-b490-dc38a0df5014
 
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+
 ## Summary
 👉 If you like this project, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈  
