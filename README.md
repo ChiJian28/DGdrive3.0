@@ -2,7 +2,7 @@
 This project simplifies the decentralized process of uploading and sharing images on the blockchain. It utilizes Solidity for the smart contract and React for the front-end interface. The system allows users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through the functionality of smart contracts.
 
 ## Technologies Used
-Remix IDE + Hardhat + Ethers.js + React
+Remix IDE + Hardhat + Ethers.js + React + IPFS (distributed system)
 * Frontend - React, Ethers.js
 * Backend - Solidity, Hardhat (deployed on blockchain)
 * Database - [IPFS](https://docs.ipfs.tech/concepts/) (data stored on IPFS to reduce high gas fees)
