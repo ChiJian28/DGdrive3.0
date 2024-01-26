@@ -13,4 +13,7 @@ module.exports = {
       accounts: [PRIVATE_KEY],
     },
   },
+  etherscan: {    // to verify contract in CLI way（也有GUI的，可以在etherscan ui 那边进行verify，只不过CLI 比较方便 一行command 解决）
+    apiKey: process.env.ETHERSCAN_API_KEY,
+  }
 };
